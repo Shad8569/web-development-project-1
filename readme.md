@@ -1,2 +1,2 @@
-web development project using html5 , css3 javascript(es6)
+web development project using html5 , css3 , javascript(es6)
 
